@@ -1,0 +1,15 @@
+*{
+    outline: 1px solid black;
+}
+
+body{
+    background-color: #E6E6E6;
+}
+nav{
+    background-color: #fff;
+    height: 6rem;
+}
+
+.img-fluid{
+    width: 50%;
+}
