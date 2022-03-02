@@ -21,21 +21,18 @@ body{
     width: 90%;
 }
 
-.img-circle {
+.circle-border {
     border-radius: 100%;
     border: 4px solid #FFF;
 }
 
-.profile-header {
-    background-color: #DEA03D;
+.circle-body {
     height: 180px;
     width: 180px;
     border-radius: 50%;
+    color: #FFF;
 }
 
-.centered {
-    color: white;
-}
 /*.profile-image {*/
 /*    position: absolute;*/
 /*    top: -30px;*/
