@@ -26,9 +26,21 @@ body {
     border: 4px solid #FFF;
 }
 
-.circle-body {
+.big-circle-body {
     height: 180px;
     width: 180px;
     border-radius: 50%;
     color: #FFF;
+}
+.small-circle-body {
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    color: #000000;
+    margin: 3px;
+}
+.apple-ipad {
+    width: 80%;
+    margin: 50px;
+    border: 8px solid black;
 }
