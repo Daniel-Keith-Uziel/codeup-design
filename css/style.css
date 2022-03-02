@@ -1,23 +1,23 @@
-*{
-    /*outline: 1px solid black;*/
+* {
+    outline: 1px solid black;
 }
 
-body{
+body {
     background-color: #E6E6E6;
 }
 
 /**small screen*!*/
 
-.small--nav{
+.small--nav {
     background-color: white;
     margin-top: 20%;
 }
 
-.img-fluid{
+.img-fluid {
     width: 40%;
 }
 
-.images--section{
+.images--section {
     width: 90%;
 }
 
@@ -32,8 +32,3 @@ body{
     border-radius: 50%;
     color: #FFF;
 }
-
-/*.profile-image {*/
-/*    position: absolute;*/
-/*    top: -30px;*/
-/*}*/
