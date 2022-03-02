@@ -1,5 +1,5 @@
 *{
-    outline: 1px solid black;
+    /*outline: 1px solid black;*/
 }
 
 body{
@@ -28,9 +28,9 @@ body{
 
 .profile-header {
     background-color: #DEA03D;
-    height: 20px;
-    width: 20px;
-    border-radius: 10px;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
 }
 
 .centered {
