@@ -124,3 +124,27 @@ Medium
         display: block;
     }
 }
+
+@media only screen and (min-width: 992px) {
+    #big-circles{
+        margin: auto;
+    }
+    body{
+        margin: auto;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    main{
+        display: flex;
+        justify-content: end;
+    }
+    /*body{*/
+    /*    display: flex;*/
+    /*    justify-content: center;*/
+    /*}*/
+    /*.center--main{*/
+    /*    display: flex;*/
+    /*    justify-content: center;*/
+    /*    align-content: space-between;*/
+    /*}*/
+}
