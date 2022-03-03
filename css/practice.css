@@ -103,6 +103,8 @@ Medium
 }
 
 .bottom-p-tags {
+    width: 100%;
+    margin-left: 20px;
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -113,10 +115,7 @@ Medium
 /*}*/
 
 .little-images {
-
-
-
-
+margin-top: 43px;
 }
 
 
