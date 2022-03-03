@@ -102,6 +102,9 @@ Medium
     width: 100%;
 }
 
+.bottom-p-tags {
+}
+
 /* Medium devices (landscape tablets, 768px and up) */
 /*@media only screen and (min-width: 768px) {*/
 /*    #the--last{*/
@@ -110,13 +113,9 @@ Medium
 /*}*/
 
 .little-images {
-    position: absolute;
-    top: 70%;
-    left: 97%;
-    transform: translate(-50%, -50%);
-    width: 60%;
-    padding: 0 30px;
-    height: 50%;
+
+
+
 
 }
 
