@@ -1,9 +1,9 @@
-* {
-    outline: 1px solid black;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/** {*/
+/*    outline: 1px solid black;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
 
 body {
     background-color: #EDBB99;
@@ -108,3 +108,7 @@ Medium
         width: 50%;
     }
 }
+
+/*.little-images {*/
+/*    margin-top: -60%;*/
+/*}*/
