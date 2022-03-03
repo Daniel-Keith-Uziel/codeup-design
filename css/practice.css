@@ -109,6 +109,7 @@ Medium
     }
 }
 
-/*.little-images {*/
-/*    margin-top: -60%;*/
-/*}*/
+.little-images {
+    /*margin-top: -60%;*/
+    width: 50%;
+}
